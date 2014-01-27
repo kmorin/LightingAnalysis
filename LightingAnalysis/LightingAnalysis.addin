@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Text>Command LightingAnalysis</Text>
+    <Text>LightingAnalysisToolsRevit</Text>
     <Description>description for LightingAnalysis</Description>
     <Assembly>LightingAnalysis.dll</Assembly>
     <FullClassName>LightingAnalysis.Command</FullClassName>
