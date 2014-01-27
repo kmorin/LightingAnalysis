@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command LightingAnalysis</Text>
+    <Description>description for LightingAnalysis</Description>
+    <Assembly>LightingAnalysis.dll</Assembly>
+    <FullClassName>LightingAnalysis.Command</FullClassName>
+    <ClientId>f6973e46-5eb9-49bc-894a-a7432e7e7cd6</ClientId>
+    <VendorId>KTM</VendorId>
+    <VendorDescription>Kyle T. Morin, http://kylemorin.co/</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application LightingAnalysis</Name>
+    <Assembly>LightingAnalysis.dll</Assembly>
+    <FullClassName>LightingAnalysis.App</FullClassName>
+    <ClientId>f8593af7-ad24-4bfb-9c33-bcb5c69be7f0</ClientId>
+    <VendorId>KTM</VendorId>
+    <VendorDescription>Kyle T. Morin, http://kylemorin.co/</VendorDescription>
+  </AddIn>
+</RevitAddIns>
